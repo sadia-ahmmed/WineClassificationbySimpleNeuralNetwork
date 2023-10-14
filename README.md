@@ -8,7 +8,7 @@ Both datasets had ```"fixed acidity"; "volatile acidity"; "citric acid"; "residu
 
 
 ## Technologies Used
-- Jupyter Notebook
+- Jupyter ```Notebook
 - Numpy
 - Pandas
 - Scikit Learn
